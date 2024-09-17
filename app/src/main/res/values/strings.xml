@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">yuhi</string>
+    <string name="Login" />
+    <string name="email" />
+    <string name="password" />
+    <string name="login">login</string>
+    <string name="gmail">gmail</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="click_on_login">click on login</string>
+    <string name="click_to_register">click_to_register</string>
+    <string name="logout">logout</string>
+</resources>
